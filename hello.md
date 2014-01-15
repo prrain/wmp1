@@ -1,9 +1,9 @@
 자기소개
 ----------------------------
-이름 : 김미선
+이름 : 김미선 아님
 
-팀 : 커머스 운영팀
+팀 : 없음
 
-Github ID : prrain
+Github ID : bihn
 
-E-mail: prrain@wemakeprice.com
+E-mail: bihn@wemakeprice.com
